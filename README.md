@@ -512,6 +512,13 @@ There are multiple ways to lay out the content of a UE4 project. In this style, 
                    |-- DesertEagle
                    |-- RocketPistol
                 |-- Rifles
+	 |-- UI
+	     |-- Menu
+	        |-- MainMenu
+		|-- PauseMenu
+	     |-- HUD
+	     	|-- PlayerHUD
+		|-- SpectatorHUD
 
 </pre>
 
